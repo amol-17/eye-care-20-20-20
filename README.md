@@ -1,5 +1,5 @@
 # eye-care-20-20-20
-Lets your remind to take 20 second rest, after every 20 minutes and watch 20 feet away.
+Lets you remind to take 20 second rest, after every 20 minutes and watch 20 feet away.
 
 # Installation
 
