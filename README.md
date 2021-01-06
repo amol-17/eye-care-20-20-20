@@ -3,6 +3,7 @@ Gives u notification to take 20 second rest, after every 20 minutes and watch 20
 
 # Prerequisites
 Must have python interpreter >3.6v
+Install plyer
 
 # Installation
 
