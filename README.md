@@ -3,10 +3,11 @@ Gives u notification to take 20 second rest, after every 20 minutes and watch 20
 
 # Prerequisites
 Must have python interpreter >3.6v
-Install plyer
+plyer
 
 # Installation
 
+0. pip install requirements
 1. Clone the repository/Zip download it
 2. Extract or Open the folder containing repository
 3. Copy eye-care.pyw file
