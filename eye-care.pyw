@@ -1,6 +1,7 @@
-from plyer import notification as nf
+from win10toast import ToastNotifier
 import time
 
-while(True):
+while (True):
+    toast.show_toast("Eye Care", "Take 20 second break", duration=5)
     time.sleep(1200)
-    nf.notify("Eye care", "Take a break for 20 seconds")
+    toast = ToastNotifier()
